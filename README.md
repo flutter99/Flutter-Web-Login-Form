@@ -2,12 +2,13 @@
 
 This repository contains the source code for a Flutter tutorial focused on creating an elegant login screen with a Glassmorphism effect. The project demonstrates how to use various Flutter widgets and techniques to build a modern and visually appealing user interface.
 
-Features
-Responsive Design: Utilizes MediaQuery to ensure the UI adapts to various screen sizes.
-Glassmorphism Effect: Implements BackdropFilter and ClipRRect for a frosted glass-like appearance.
-Custom Form Fields: Stylish TextFormField widgets for email and password inputs.
-Interactive UI Elements: A "Forgot Password?" feature and a clickable "Register" option.
-Custom Button Styling: Modern-looking login button using ElevatedButton.
+## 🌟 Features
+
+- **Responsive Design:** Adapts seamlessly to different screen sizes using `MediaQuery`.
+- **Glassmorphism Effect:** Achieves a frosted glass look with `BackdropFilter` and `ClipRRect`.
+- **Custom Text Fields:** Elegant `TextFormField` widgets for user input.
+- **Interactive Elements:** Includes "Forgot Password?" and "Register" options.
+- **Stylized Button:** Custom-styled `ElevatedButton` for the login action.
 
 ## Getting Started
 
