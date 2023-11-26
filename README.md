@@ -13,4 +13,6 @@ Custom Button Styling: Modern-looking login button using ElevatedButton.
 
 To get started with this project, follow these steps:
 
-
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/[YourUsername]/flutter-elegant-login-screen.git
