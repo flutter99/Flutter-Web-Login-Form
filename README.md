@@ -40,7 +40,13 @@ To get started with this project, follow these steps:
 We welcome contributions to this project! If you have suggestions or improvements:
 
 - Fork the Repository.
-- Create a new Branch (git checkout -b feature/YourFeature).
-- Commit your Changes (git commit -m 'Add some YourFeature').
-- Push to the Branch (git push origin feature/YourFeature).
+- Create a new Branch
+   ```bash
+   git checkout -b feature/YourFeature
+- Commit your Changes
+   ```bash
+   git commit -m 'Add some YourFeature'
+- Push to the Branch
+  ```bash
+  git push origin feature/YourFeature.
 - Open a Pull Request.
