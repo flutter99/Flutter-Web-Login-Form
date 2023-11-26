@@ -2,6 +2,8 @@
 
 This repository contains the source code for a Flutter tutorial focused on creating an elegant login screen with a Glassmorphism effect. The project demonstrates how to use various Flutter widgets and techniques to build a modern and visually appealing user interface.
 
+![Glassmorphism Login Form in Flutter Web ](https://github.com/flutter99/Flutter-Web-Login-Form/assets/74393555/4decb325-b3b9-49e0-90f1-6903382bd45e)
+
 ## 🌟 Features
 
 - **Responsive Design:** Adapts seamlessly to different screen sizes using `MediaQuery`.
