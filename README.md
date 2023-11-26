@@ -29,3 +29,18 @@ To get started with this project, follow these steps:
 4. **Run the Application**
    ```bash
    flutter run
+
+## 📋 Prerequisites
+
+- A working Flutter environment on your machine.
+- Basic knowledge of Flutter and Dart.
+
+## 🤝 Contributing
+
+We welcome contributions to this project! If you have suggestions or improvements:
+
+- Fork the Repository.
+- Create a new Branch (git checkout -b feature/YourFeature).
+- Commit your Changes (git commit -m 'Add some YourFeature').
+- Push to the Branch (git push origin feature/YourFeature).
+- Open a Pull Request.
