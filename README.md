@@ -15,4 +15,16 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/[YourUsername]/flutter-elegant-login-screen.git
+   git clone https://github.com/flutter99/Flutter-Web-Login-Form.git
+
+2. **Navigate to the Project Directory**
+   ```bash
+   cd Flutter-Web-Login-Form
+
+3. **Install Dependencies**
+   ```bash
+   flutter pub get
+   
+4. **Run the Application**
+   ```bash
+   flutter run
