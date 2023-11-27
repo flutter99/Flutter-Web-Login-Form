@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_form/login_screen.dart';
+import 'package:login_form/screens/register/register_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Login Form',
+      title: 'Register Form',
       theme: ThemeData(
         useMaterial3: true,
       ),
-      home: const LoginScreen(),
+      home: const RegisterScreen(),
     );
   }
 }
